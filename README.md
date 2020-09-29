@@ -15,4 +15,4 @@ Steamworks features like achievements will not work. None of the games I tested 
 5. Force the use of the "native-redirect" compatibility tool in the game's "Properties" dialog in Steam.
 
 ### Some gotcha's
-This compatibility tool runs your game using the Steam runtime. There may be libraries provided by your distro that are not provided by the Steam runtime. Running Steam from a console will allow you to see any error messages when trying to boot. Any missing libraries mentioned can be placed next to the binary being executed.
+This compatibility tool runs your game using the Steam runtime. There may be libraries provided by your distro that are not provided by the Steam runtime. Running Steam from a console will allow you to see error messages when trying to boot a game. Missing libraries mentioned can be placed next to the binary being executed.
