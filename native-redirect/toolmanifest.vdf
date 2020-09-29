@@ -1,0 +1,5 @@
+"manifest"
+{
+  "commandline" "/native-redirect run"
+  "commandline_waitforexitandrun" "/native-redirect waitforexitandrun"
+}

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "---------------"
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+gamedir=$(dirname "${@:2}")
+cd "$gamedir"
+./_play.sh
